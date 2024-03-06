@@ -1,0 +1,21 @@
+<1>对于bindFrame:
+    1.我们有两个模式bind 和 alias
+        (1).bind语法:bind "键位" "指令或者变量"
+            以及可能出现的toggle
+        (2).alias语法:alias "变量" "指令串"
+            能不能加toggle 待测试
+        (3).额外的+与-:这个加在变量名前 表示按下
+            bind能不能用 待测试
+
+    2.建议尝试:
+        要不把bind和alias分开?
+        并没有直接关系对吧
+        方法还是文件中间传递:
+            Temp.txt
+<2>对于cfgWriterFrame:
+    暂无
+
+
+Bug:cfgWriterFrame:
+    写入文件时 CrossHairColor出现问题
+    加入别的文件后时 出现问题

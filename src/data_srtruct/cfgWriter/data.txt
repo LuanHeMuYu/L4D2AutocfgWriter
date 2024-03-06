@@ -1,0 +1,60 @@
+cl_interp
+lerp
+cl_interp_radio
+lerp_radio 建议0
+net_graphheight
+网络信息显示距离下屏幕的高度
+net_graphpos
+网络信息显示距离左屏幕的宽度
+net_graphproportionalfont
+字体大小
+net_graphshowinterp
+减少底部线条
+cl_viewmodelfovsurvivor
+手臂长度
+cc_predisplay_time
+cc字幕显示延后时间
+cl_glow_survivor_health_include_buffer
+可以测试一下这个指令
+cl_glow_survivor_health_bleed_pulse
+虚血闪光<有点闪眼睛 不大建议>
+cl_glow_survivor_health_bleed_pulse_amount
+脉冲是否很显眼(1或者0)<1的话就是有虚血就闪>
+cl_glow_survivor_health_bleed_pulse_speed
+脉冲频率(0-100)
+cl_crosshair_dynamic
+准星是否静态(1动0静)
+cl_crosshair_thickness
+准星粗细(1-5)
+Color cl_crosshair
+准心颜色
+cl_crosshair_alpha
+准星不透明度(0-255)<0就是看不见准星>
+Color cl_glow_survivor
+生还视角看队友轮廓
+Color cl_glow_item_far
+生还视角看远处的物品
+Color cl_glow_item
+生还视角看近处的物品
+Color cl_glow_ability
+生还看队友被控
+Color cl_glow_survivor_hurt
+生还视角看队友被控 倒地 挂边
+Color cl_glow_survivor_vomit
+生还视角看队友被吐
+Color cl_glow_infected
+特感视角看特感轮廓颜色<已重生>
+Color cl_glow_ghost_infected
+特感视角看特感轮廓颜色<未重生>
+Color cl_glow_survivor_health_high
+特感视角看生还轮廓颜色<HP:40-100>
+Color cl_glow_survivor_health_med
+特感视角看生还轮廓颜色<HP:25-39>
+Color cl_glow_survivor_health_low
+特感视角看生还轮廓颜色<HP:1-25>
+Color cl_glow_survivor_health_crit
+特感视角看生还倒地和一血的生还
+Color cl_glow_thirdstrike_item
+坦克打铁颜色和生还黑白时物品边框颜色
+Color cl_glow_infected_vomit
+生还者看感染者被胆汁击中和特感视角看生还者
